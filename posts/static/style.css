@@ -1,0 +1,12 @@
+#mainStream {
+  text-align: center;
+  background: gray;
+  margin: auto;
+  width: 50%;
+  border: 3px solid black;
+  padding: 5px;
+  }
+  #mainStream img {
+    width : 70%;
+    height: auto; /*to preserve the aspect ratio of the image*/
+}
